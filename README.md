@@ -1,24 +1,48 @@
-# code-marketplace-php - Source Code Marketplace Platform 🛒💻
+# CodeVault 🛒💻
+> **Next-Generation Source Code & Digital Assets Marketplace**
 
-Welcome to **CodeVault**, a dynamic digital marketplace designed for developers and tech enthusiasts to buy, sell, and showcase web templates, source codes, and digital assets. 
+Welcome to **CodeVault**, a robust web-based platform tailored for developers, designers, and tech creators to seamlessly buy, sell, and showcase web templates, source code scripts, and software assets.
 
-## 🚀 Key Features
+---
 
-* **User Authentication:** Secure login, registration, and session management using PHP.
-* **Product Listing:** Browse through various categories of code scripts and web components.
-* **Shopping Cart & Checkout:** Seamless dynamic cart management for buyers.
-* **Seller Dashboard:** Panel for creators to upload and manage their source code listings.
-* **Responsive UI:** Fully mobile-friendly layout built with HTML, CSS, and modern UI design.
+## 📸 Visual Overview & Demo
 
-## 🛠️ Tech Stack
+### 🖼️ Interface Preview
+![CodeVault Screenshots](image.png)
 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Backend:** PHP
-* **Database:** MySQL
-* **Tools:** Bootstrap / Tailwind CSS (Optional), VS Code, Git
+### 🎥 Live Demo Preview
+<!-- Convert your mp4 to a gif for inline preview -->
+![CodeVault Video Demo](Recording-2026-08-26-Trim.gif)
 
-## ⚙️ Installation & Setup
+<!-- Alternative: If you host your video online (e.g., YouTube), use the line below -->
+<!-- [![Watch Demo](image.png)](YOUR_VIDEO_LINK_HERE) -->
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/code-vault.git](https://github.com/your-username/code-vault.git)
+---
+
+## ✨ Core Highlights
+
+* 🔐 **User Authentication:** Secure user registration, password management, and session control built with PHP.
+* 🛍️ **Interactive Marketplace:** Explore, filter, and search through curated code templates and digital components.
+* 🛒 **Smart Shopping Cart:** Smooth add-to-cart functionality and efficient checkout workflow.
+* 💼 **Creator Dashboard:** Comprehensive panel for sellers to publish and manage their source code listings.
+* 📱 **Adaptive Design:** Fully responsive UI engineered for seamless viewing across smartphones, tablets, and desktops.
+
+---
+
+## 🛠️ Technology Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Backend** | PHP |
+| **Database** | MySQL |
+| **Styling** | Custom CSS / Bootstrap / Tailwind CSS |
+| **Tools** | Git, VS Code, XAMPP / WAMP |
+
+---
+
+## 🚀 Quick Start Guide
+
+### 1. Clone Repository
+```bash
+git clone [https://github.com/your-username/code-marketplace-php.git](https://github.com/your-username/code-marketplace-php.git)
