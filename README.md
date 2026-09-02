@@ -45,4 +45,4 @@ Welcome to **CodeVault**, a robust web-based platform tailored for developers, d
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/your-username/code-marketplace-php.git](https://github.com/your-username/code-marketplace-php.git)
+git clone [https://github.com/diloshan-dev/code-marketplace-php.git](https://github.com/diloshan-dev/code-marketplace-php.git)
